@@ -40,8 +40,10 @@ Library for machine learning model creation, processing, testing, evaluation and
 ---
 
 
-### Clone repository`
-`git clone https://github.com/lumiroga/fintech-challenge13.git`
+### Clone repository
+```bash
+git clone https://github.com/lumiroga/fintech-challenge13.git`
+```
 ---
 
 ## Usage
@@ -50,9 +52,10 @@ Open the terminal
 
 Go to solution folder in your local computer
 
-`cd ./fintech-challenge13`
-
-`jupyter venture_funding_with_deep_learning.ipynb`
+```bash
+cd ./fintech-challenge13
+jupyter venture_funding_with_deep_learning.ipynb
+```
 
 
 ---
